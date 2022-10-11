@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Configuration.КтоЗвонил" id="7d072b5c-fe8d-4f7d-96dc-404b500caa65" configVersion="affc25e88ee2e6134c8472b7f6e743e25153c22d"/>
+		<Metadata name="HTTPService.WhoCallService" id="12f1ff51-d03e-45bd-8e62-6afd908380d9" configVersion="012c37b2785b9b79f8e27feccef0262a12b7a116">
+			<Metadata name="HTTPService.WhoCallService.URLTemplate.WhoCallServiceApi.Method.ProcessingEvent" id="235fb729-d455-476c-8324-973c39f2324d"/>
+			<Metadata name="HTTPService.WhoCallService.URLTemplate.WhoCallServiceApi" id="ca3cc48c-cbfa-443d-8752-ec2a6b98d332"/>
+		</Metadata>
+		<Metadata name="HTTPService.WhoCallService.Module" id="12f1ff51-d03e-45bd-8e62-6afd908380d9.0" configVersion="7b404d0761b404d871089556c47590138a5be6ca"/>
+		<Metadata name="Language.Русский" id="e9605d4a-b836-4e87-ab77-68cdb6dcf9a2" configVersion="e2307c94377d018f4b84ac7f20a641b340e5bb31"/>
+		<Metadata name="Role.ЗапускВебКлиента" id="4c0be00f-b1e5-44d0-a5b5-f1bf63e4f30f" configVersion="cb2a4a7801aa29ec6f302d6a5d3af5cbee93fbbb"/>
+		<Metadata name="Role.ЗапускВебКлиента.Rights" id="4c0be00f-b1e5-44d0-a5b5-f1bf63e4f30f.0" configVersion="edc0eb0e23e419d409164bb7c347ebef620f594b"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
